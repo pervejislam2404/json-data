@@ -5,6 +5,7 @@
     {
         "location": "British Council",
         "title": "English in Early Childhood",
+        "subtitle": "Being confident in English can give your child an early advantage at school, helping them make the most of the education, qualifications and career opportunities that lie ahead.",
         "description": "Explore early childhood development and find out how you can support young children learning English as an additional language.",
         "img": "https://ugc.futurelearn.com/uploads/images/6d/8f/header_small_6d8f7820-355b-4047-977a-74ad29d5906f.jpg",
         "durations": "6 weeks",
@@ -17,6 +18,7 @@
     {
         "location": "British Council",
         "title": "Exploring English: Language and Culture",
+        "subtitle": "Improve your English language skills while discovering key aspects of British culture, from Shakespeare to live music, and more.",
         "description": "Improve your English language skills while discovering key aspects of British culture, from Shakespeare to live music, and more.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8z_rtWGHW7ZNVUtaEytWIZ63P-7yG3LMpXQ&usqp=CAU",
         "durations": "13 weeks",
@@ -28,6 +30,7 @@
     {
         "location": "British Council",
         "title": "How to Plan and Teach Great English Lessons",
+        "subtitle": "Take responsibility for your own continuing professional development (CPD) with this ExpertTrack from the British Council.",
         "description": "Understand and plan your professional development as an EFL teacher, with this flexible teaching ExpertTrack.",
         "img": "https://ugc.futurelearn.com/uploads/images/ff/a4/header_small_ffa4f41a-76b0-4794-9eb7-0f738ed818f9.jpg",
         "durations": "12 weeks",
@@ -37,9 +40,11 @@
         "price": "$380"
     },
     {
-        "location": "Shanghai International Studies University (SISU)",
-        "title": "Learn Chinese: An Introduction to Mandarin",
-        "description": "Build your confidence in speaking and writing Mandarin Chinese by learning useful words and phrases, pronunciation, and grammar.",
+        "location": "University of Washington",
+        "title": "Business English Communication Skills Specialization",
+        "subtitle": "A Coursera Specialization is a series of courses that helps you master a skill. To begin, enroll in the Specialization directly, or review its courses and choose the one you'd like to start with.",
+        "description": "Every Specialization includes a hands-on project. You'll need to successfully finish the project(s) to complete the Specialization and earn your certificate. If the Specialization includes a separate course for the hands-on project, you'll need to finish each of the other courses before you can start it.",
+
         "img": "https://ugc.futurelearn.com/uploads/images/2a/03/header_small_2a036a87-627d-4dd2-bf48-2f1967e9a801.jpg",
         "durations": "13 weeks",
         "courses": "3 courses",
